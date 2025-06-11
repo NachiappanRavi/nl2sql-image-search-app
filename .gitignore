@@ -1,0 +1,26 @@
+# Environment variables and secrets
+secrets.toml
+.streamlit/secrets.toml
+.env
+*.env
+
+# Data files
+data.xlsx
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db 
