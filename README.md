@@ -1,12 +1,13 @@
 # AI-Powered Image Search Application
 
 ## 🌟 Features
-• **Smart Image Search**: Search through images using natural language queries
-• **Gemini AI Integration**: Powered by Google's advanced AI technology
-• **SQL Automation**: Converts natural language to SQL queries automatically
-• **Error Tolerant**: Works with typos and grammatical mistakes
-• **Database Intelligence**: Understands table structures and relationships
-• **Secure & Trackable**: Protected API keys with comprehensive logging
+
+- **Smart Image Search**: Search through images using natural language queries
+- **Gemini AI Integration**: Powered by Google's advanced AI technology
+- **SQL Automation**: Converts natural language to SQL queries automatically
+- **Error Tolerant**: Works with typos and grammatical mistakes
+- **Database Intelligence**: Understands table structures and relationships
+- **Secure & Trackable**: Protected API keys with comprehensive logging
 
 
 ## 🚀 Quick Start
