@@ -4,12 +4,14 @@ A sophisticated Streamlit application that enables natural language-based image 
 
 ## 🌟 Features
 
-- **Natural Language Processing**: Query images using everyday language
+- **Natural Language to SQL Conversion**: Advanced NLP capabilities to convert user queries into SQL statements
 - **AI-Powered Search**: Leverages Google's Gemini AI for intelligent image matching
-- **Dynamic Image Display**: Responsive grid layout for image results
-- **SQL Database Integration**: Efficient data storage and retrieval
-- **Secure Configuration**: Protected API key management
-- **Comprehensive Logging**: Detailed activity tracking and error monitoring
+
+- **Advanced Query Processing**:
+  - Case-insensitive matching
+  - Typo tolerance and fuzzy matching
+  - Context-aware query understanding
+  - Follow-up question handling
 
 ## 🚀 Quick Start
 
