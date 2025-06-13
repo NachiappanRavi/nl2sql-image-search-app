@@ -5,13 +5,15 @@ secrets.toml
 *.env
 
 # Data files
-data.xlsx
 *.xlsx
 
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
+venv/
+env/
+ENV/
 
 # Logs
 logs/
