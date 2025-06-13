@@ -1,15 +1,13 @@
 # AI-Powered Image Search Application
 
-A sophisticated Streamlit application that enables natural language-based image search and retrieval using Google's Gemini AI. This application provides an intuitive interface for searching through image collections using conversational queries.
-
 ## 🌟 Features
+• **Smart Image Search**: Search through images using natural language queries
+• **Gemini AI Integration**: Powered by Google's advanced AI technology
+• **SQL Automation**: Converts natural language to SQL queries automatically
+• **Error Tolerant**: Works with typos and grammatical mistakes
+• **Database Intelligence**: Understands table structures and relationships
+• **Secure & Trackable**: Protected API keys with comprehensive logging
 
-- **Natural Language Processing**: Query images using everyday language
-- **AI-Powered Search**: Leverages Google's Gemini AI for intelligent image matching
-- **Dynamic Image Display**: Responsive grid layout for image results
-- **SQL Database Integration**: Efficient data storage and retrieval
-- **Secure Configuration**: Protected API key management
-- **Comprehensive Logging**: Detailed activity tracking and error monitoring
 
 ## 🚀 Quick Start
 
@@ -111,4 +109,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Nachiappan Ravi - nachu.ravi97@gmail.com
 
-Project Link: [https://github.com/NachiappanRavi/nl2sql-image-search-app](https://github.com/NachiappanRavi/nl2sql-image-search-app) "# nl2sql-image-search-app" 
+Project Link: [https://github.com/NachiappanRavi/nl2sql-image-search-app](https://github.com/NachiappanRavi/nl2sql-image-search-app)
